@@ -4950,4 +4950,21 @@ In a mangey mutt
 
 Attachment powerful
 Aun in worship
+.
+.
+.
+WRONG
+usb3.0
+  ||
+ssd
+  ||
+raidz
 
+No benefit is derived
+Raidz enough bus 
+To optimize xfers
+
+RIGHT
+usb3.0
+ ||
+raidz
