@@ -9220,6 +9220,50 @@ True North of odd turns even
 True South of even turns odd
 
 repeat thrice
+
+Follow certain codes
+Log cast results
+
+* - hail (Relic Rare)
+o - 3rd cast
+D - 2nd cast
+X - 1st cast
+T - Relic North
+F - Relic South
+NULL - no win
+_
+
+20 Cast Log
+o2T
+X1T
+03F
+33f
+D4T
+D1F
+[[ *D24F ]]
+[[ *D14F ]]
+07F
+NULL
+*NULL
+o6T
+oNULL
+*D618T
+0NULLf
+D2F 
+D11T
+XNULL
+D2T
+0NULLT
+
+Reading
+[[ *D24F ]]
+[[ *D14F ]]
+_
+positive luck (3positive 1odd)
+second shot (D) 
+from against-the-grain success despite opposition (F)
+4 Lucky number (4)
+Sneaky 1 odd attach by double-digit dice bad sportmanship (14)
 .
 .
 .
